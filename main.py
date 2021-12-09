@@ -90,7 +90,7 @@ def main():
                     print(f"PIN cracked! {attempt} ({attempthash}) [Attempt: {num}]")
                     elapsed = end - start
                     print("Elapsed: " + str(elapsed) + "(s)")
-                    a = input("Press enter to exit...")
+                    input("Press enter to exit...")
                     leave()
                 else:
                     if check == prints and prints != 0:
