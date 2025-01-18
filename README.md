@@ -25,7 +25,7 @@ To use this program you will require [`python`](https://www.python.org/) 3.9 or 
 ---
 Install with [`git`](https://git-scm.com/)
 ```
-$ git clone https://github.com/tilas0/phonepindemo.git
+$ git clone https://github.com/tilas01/phonepindemo.git
 $ cd phonepindemo
 $ python3 main.py
 ```
